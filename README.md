@@ -6,6 +6,10 @@ Hier finden Sie Aufgabenblätter der **Schweizerischen Maturitätsprüfung** («
 
 [Zu den Passerelle-Aufgaben](#passerelle)
 
+<script>
+console.log('666')
+</script>
+
 ---
 
 ## Matura
