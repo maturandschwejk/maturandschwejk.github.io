@@ -6,9 +6,7 @@ Hier finden Sie Aufgabenblätter der **Schweizerischen Maturitätsprüfung** («
 
 [Zu den Passerelle-Aufgaben](#passerelle)
 
-<script>
-console.log('666')
-</script>
+<script type="text/javascript" src="https://pub27.bravenet.com/counter/code.php?id=410714&usernum=2246936596&cpv=3"></script>
 
 ---
 
